@@ -1,0 +1,22 @@
+123|jesus|Sistemas|1200.0|4|AFP
+123|jesus1|Sistemas|1200.0|4|AFP
+345|Juan|Administracion|1500.0|5|SNP
+123|jesus|Sistemas|1200.0|4|AFP
+123|jesus1|Sistemas|1200.0|4|AFP
+345|Juan|Administracion|1500.0|5|SNP
+123|jesus|Sistemas|1200.0|4|AFP
+123|jesus1|Sistemas|1200.0|4|AFP
+345|Juan|Administracion|1500.0|5|SNP
+123|jesus|Sistemas|1200.0|4|AFP
+123|jesus1|Sistemas|1200.0|4|AFP
+345|Juan|Administracion|1500.0|5|SNP
+123|jesus|Sistemas|1200.0|4|AFP
+123|jesus1|Sistemas|1200.0|4|AFP
+345|Juan|Administracion|1500.0|5|SNP
+123|jesus|Sistemas|1200.0|4|AFP
+123|jesus1|Sistemas|1200.0|4|AFP
+345|Juan|Administracion|1500.0|5|SNP
+333|manuel|Sistemas|15000.0|4|AFP
+12|manuel|Sistemas|12223.0|4|AFP
+2323|erick|Sistemas|3333.0|2|AFP
+1233|juan jesus|Administracion|1500.0|1300|SNP
